@@ -12,3 +12,7 @@ O projeto também define limites claros de escopo, evitando excesso de informaç
 - Gabriel: Scrum Master
 - Vinícius: Registrador
 - Carlos: Guardião do repositório
+
+
+# Link Trello
+[Acesse o Trello](https://trello.com/invite/b/6aa1fcb38829efdfcc3345b9/ATTI4bb4cb02c4af4c2204b8c12231f229e368ACAFD7/app-alunos-unisinos)
