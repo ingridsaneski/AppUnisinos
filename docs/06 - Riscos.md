@@ -1,4 +1,4 @@
-# Registro de Riscos
+# 6.3 Registro de Riscos
 <!-- Ao menos 5 riscos identificados -->
 
 | ID | Risco | Probabilidade (1-3) | Impacto (1-3) | Mitigação |
@@ -12,7 +12,7 @@
 
 ---
 
-# Matriz de Riscos (3×3)
+# 6.4 Matriz de Riscos (3×3)
 <!-- Posicione cada risco (R-01, R-02...) na célula correspondente -->
 
 | Impacto \ Probabilidade | Baixa (1) | Média (2) | Alta (3) |
